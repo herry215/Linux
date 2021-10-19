@@ -7,3 +7,5 @@
 # git push -u origin main
 
 # git update complete.!
+
+# 최초 git clone https://github.com/herry215/Linux.git 로 설정
