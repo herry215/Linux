@@ -1,1 +1,1 @@
-# Rinux
+# Linux
